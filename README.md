@@ -1,4 +1,3 @@
 # Gittest
-Gittest
-yes hello
-hi Raj
+Hi this is our first git test.
+Enjoy 
